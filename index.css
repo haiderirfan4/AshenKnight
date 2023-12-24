@@ -97,7 +97,7 @@ footer {
   height: 100vh;
   width: 100%;
   background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)),
-    url(/homeback3.jpg);
+    url("./homeback3.jpg");
   background-attachment: fixed;
   background-size: cover;
 }
